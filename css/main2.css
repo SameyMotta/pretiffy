@@ -1,0 +1,125 @@
+.menu li{
+	display: inline-block;
+}
+.menu a{
+	list-style: none;
+	text-decoration: none;
+	margin: 15px;
+	font-family: impact;
+	color: black;
+}
+.menu ul{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.imagen{
+	height: 450px;
+	background-color: #000;
+	position: relative;
+}
+.imagen img{
+	height: 100%;
+	position: absolute;
+	left: 45%;
+}
+.imagen h1{
+	color: #ccc;
+	position: absolute;
+	top: 80%;
+	left: 10%;
+	font-size: 30px;
+}
+.yo{
+	margin: 40px;
+	text-align: center;
+	font-size: 30px;
+	font-family: impact;
+}
+
+.sobre img{
+	width:20%;
+	float: left;
+	margin-right: 15px;
+}
+.sobre{
+	padding-left: 250px;
+	padding-right: 250px;
+	margin-bottom: 20px;
+}
+
+.foto{
+	width: 100%;
+	border-radius: 100%;
+	
+	
+}
+.fondito img{
+	
+    list-style: none;
+	text-decoration: none;
+	
+}
+.fondito{
+	background-image: url(https://myloview.es/fotomurales/160/13CE86/diseno-de-papel-tapiz-de-epoca-de-color-marron-oscuro.jpg);
+	width: 900px;
+	position: relative;
+	
+}
+.fondito li{
+	display: inline-block;
+	width: 242px;
+	margin: 40px;
+	margin-left:80px;
+	margin-top: 20px;
+	color: white;
+	text-align: center;
+
+}
+
+.aa{
+	width: 140%;
+	height: 140%;
+	text-align: center;
+
+}
+.fondito ul{
+	padding: 20px;
+}
+
+.scro{
+	overflow: scroll;
+	height: 400px;
+	width: 800px;
+	margin-left: 250px;
+}
+
+.fonditodos{
+	background-image: url(http://mlm-s2-p.mlstatic.com/hermoso-papel-tapiz-decorativo-en-color-neutro-envio-gratis-736301-MLM20321938910_062015-O.jpg);  
+	padding: 30px;
+	height: 250px;
+}
+
+.fonditodos h1{
+text-align: center;
+font-size: 30px;
+font-family: impact;
+margin: 20px;
+}
+
+.fonditodos li{
+	display: inline-block;
+	margin: 20px;
+}
+.fonditodos img{
+	width: 95%;
+
+}
+.centro{
+	margin-left: 350px;
+}
+.margen{
+	padding-bottom: 5px;
+}
+
